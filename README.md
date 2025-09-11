@@ -1,3 +1,3 @@
-# git_test
+# Odin recipes
 
-Hello Odin!
+First project from the odin project course. It showcases basic HTML knowledge.
